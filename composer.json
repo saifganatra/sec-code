@@ -1,0 +1,18 @@
+{
+    "name": "Secure Code",
+    "description": "This package provides the functionality for generation secure codes under cretain rules. Those codes could have been used for different purposes.",
+    "authors": [
+        {
+            "name": "Saif Muhammad",
+            "email": "saif_ganatra@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Saifganatra\\Sec-code\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
